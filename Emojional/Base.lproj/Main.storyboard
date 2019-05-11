@@ -23,7 +23,8 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="79" id="lhq-qf-4Tb"/>
                                 </constraints>
-                                <state key="normal" title="Button" image="kiss"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="65"/>
+                                <state key="normal" title="😘"/>
                                 <connections>
                                     <action selector="showMessageWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="cPU-Ve-zZs"/>
                                 </connections>
@@ -33,7 +34,8 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="76" id="Cv1-o4-CaO"/>
                                 </constraints>
-                                <state key="normal" title="Button" image="laughjace"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="65"/>
+                                <state key="normal" title="🤣"/>
                                 <connections>
                                     <action selector="showMessageWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Tqd-mm-OWG"/>
                                 </connections>
@@ -43,7 +45,8 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="85" id="he2-vq-Vkh"/>
                                 </constraints>
-                                <state key="normal" title="Button" image="smile"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="65"/>
+                                <state key="normal" title="😃"/>
                                 <connections>
                                     <action selector="showMessageWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="50i-eq-Wlj"/>
                                 </connections>
@@ -53,7 +56,8 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="76" id="JSe-iP-iPn"/>
                                 </constraints>
-                                <state key="normal" title="Button" image="fearface"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="65"/>
+                                <state key="normal" title="😱"/>
                                 <connections>
                                     <action selector="showMessageWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="rQR-Ml-NWb"/>
                                 </connections>
@@ -82,10 +86,4 @@
             <point key="canvasLocation" x="47.826086956521742" y="20.758928571428569"/>
         </scene>
     </scenes>
-    <resources>
-        <image name="fearface" width="480" height="480"/>
-        <image name="kiss" width="480" height="480"/>
-        <image name="laughjace" width="400" height="379"/>
-        <image name="smile" width="704" height="720"/>
-    </resources>
 </document>
